@@ -1,0 +1,164 @@
+{
+  "exercises":[
+    {
+      "name": "Wyciskanie sztangi na ławce poziomej",
+      "muscleGroup": "Chest"
+    },
+    {
+      "name": "Rozpiętki na ławce skośnej",
+      "muscleGroup": "Chest"
+    },
+    {
+      "name": "Pompki klasyczne",
+      "muscleGroup": "Chest"
+    },
+    {
+      "name": "Wyciskanie hantli",
+      "muscleGroup": "Chest"
+    },
+    {
+      "name": "Butterfly (maszyna)",
+      "muscleGroup": "Chest"
+    },
+    {
+      "name": "Uginanie ramion ze sztangą",
+      "muscleGroup": "Biceps"
+    },
+    {
+      "name": "Uginanie ramion z hantlami",
+      "muscleGroup": "Biceps"
+    },
+    {
+      "name": "Uginanie ramion młotkowe",
+      "muscleGroup": "Biceps"
+    },
+    {
+      "name": "Uginanie ramion na modlitewniku",
+      "muscleGroup": "Biceps"
+    },
+    {
+      "name": "Uginanie ramion z linką wyciągu dolnego",
+      "muscleGroup": "Biceps"
+    },
+    {
+      "name": "Wyciskanie francuskie leżąc",
+      "muscleGroup": "Triceps"
+    },
+    {
+      "name": "Prostowanie ramion na wyciągu górnym",
+      "muscleGroup": "Triceps"
+    },
+    {
+      "name": "Pompki w podporze tyłem",
+      "muscleGroup": "Triceps"
+    },
+    {
+      "name": "Wyciskanie hantli zza głowy",
+      "muscleGroup": "Triceps"
+    },
+    {
+      "name": "Wyciskanie sztangi wąskim chwytem",
+      "muscleGroup": "Triceps"
+    },
+    {
+      "name": "Podciąganie na drążku",
+      "muscleGroup": ""
+    },
+    {
+      "name": "Wiosłowanie sztangą",
+      "muscleGroup": "Backs"
+    },
+    {
+      "name": "Wiosłowanie hantlem",
+      "muscleGroup": "Backs"
+    },
+    {
+      "name": "Ściąganie drążka do klatki piersiowej",
+      "muscleGroup": "Backs"
+    },
+    {
+      "name": "Martwy ciąg",
+      "muscleGroup": "Backs"
+    },
+    {
+      "name": "Przysiady ze sztangą",
+      "muscleGroup": "Legs"
+    },
+    {
+      "name": "Wykroki z hantlami",
+      "muscleGroup": "Legs"
+    },
+    {
+      "name": "Uginanie nóg na maszynie",
+      "muscleGroup": "Legs"
+    },
+    {
+      "name": "Prostowanie nóg na maszynie",
+      "muscleGroup": "Legs"
+    },
+    {
+      "name": "Przysiady bułgarskie",
+      "muscleGroup": "Legs"
+    },
+    {
+      "name": "Brzuszki",
+      "muscleGroup": "ABS"
+    },
+    {
+      "name": "Plank",
+      "muscleGroup": "ABS"
+    },
+    {
+      "name": "Unoszenie nóg w zwisie",
+      "muscleGroup": "ABS"
+    },
+    {
+      "name": "Russian twist",
+      "muscleGroup": "ABS"
+    },
+    {
+      "name": "Mountain climbers",
+      "muscleGroup": "ABS"
+    },
+    {
+      "name": "Bieganie",
+      "muscleGroup": "Cardio"
+    },
+    {
+      "name": "Rower stacjonarny",
+      "muscleGroup": "Cardio"
+    },
+    {
+      "name": "Orbitrek",
+      "muscleGroup": "Cardio"
+    },
+    {
+      "name": "Skakanie na skakance",
+      "muscleGroup": "Cardio"
+    },
+    {
+      "name": "Burpees",
+      "muscleGroup": "Cardio"
+    },
+    {
+      "name": "Unoszenie rąk w bok",
+      "muscleGroup": "Shoulders"
+    },
+    {
+      "name": "Unoszenie rąk w przód",
+      "muscleGroup": "Shoulders"
+    },
+    {
+      "name": "Unoszenie rąk w tył",
+      "muscleGroup": "Shoulders"
+    },
+    {
+      "name": "Wyciskanie sztangi nad głową",
+      "muscleGroup": "Shoulders"
+    },
+    {
+      "name": "Wyciskanie hantli nad głową",
+      "muscleGroup": "Shoulders"
+    }
+  ]
+}

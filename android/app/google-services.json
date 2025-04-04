@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905976017867",
+    "project_id": "gym-progress-26512",
+    "storage_bucket": "gym-progress-26512.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905976017867:android:c0cb610e8837ef9eda7c4e",
+        "android_client_info": {
+          "package_name": "com.example.gym_progress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVtIiNq4M4d8VKLTYKbCMLSobMZkP_-nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
