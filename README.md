@@ -93,5 +93,5 @@ flutter run
 ---
 
 ## 🧑‍💻 Autor
-Projekt stworzony jako autorski pomysł Arkadiusza Migas
+Projekt stworzony przez Arkadiusza Migas
 
