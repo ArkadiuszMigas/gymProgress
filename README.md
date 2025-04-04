@@ -1,6 +1,6 @@
-# GymProgress Planner
+# GymProgress
 
-**GymProgress Planner** to kompleksowa aplikacja mobilna stworzona we Flutterze do planowania i monitorowania progresu treningowego na siłowni. Aplikacja wspiera personalizację planów treningowych, śledzenie postępów oraz przechowywanie danych lokalnie i w chmurze.
+**GymProgress** to kompleksowa aplikacja mobilna stworzona we Flutterze do planowania i monitorowania progresu treningowego na siłowni. Aplikacja wspiera personalizację planów treningowych, śledzenie postępów oraz przechowywanie danych lokalnie i w chmurze.
 
 ---
 
